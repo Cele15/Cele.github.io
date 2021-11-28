@@ -1,8 +1,6 @@
 ## Bienvenidos a mi primera página web con Github.
 
-You can use the [editor on GitHub](https://github.com/Cele15/Cele.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Es mi primera vez que hago esta página no se ni como va a salir esto.
 
 ### Markdown
 
